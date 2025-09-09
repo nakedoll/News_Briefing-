@@ -1,0 +1,5 @@
+{
+  "name": "Korean Startup News Briefing",
+  "description": "An AI-powered daily briefing of startup news from South Korean internet newspapers for entrepreneurs, generated every morning.",
+  "requestFramePermissions": []
+}
